@@ -1,0 +1,26 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.17",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simplyvpthar/Fitness-Tracker.git"
+  },
+  "author": "Vanh Tharavong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplyvpthar/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/simplyvpthar/Fitness-Tracker#readme"
+}
