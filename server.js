@@ -23,5 +23,5 @@ appex.use(require("./routes/api.js"));
 appex.use(require("./routes/view.js"));
 
 appex.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
+  console.log(`The app is running on port ${PORT}!`);
 });
