@@ -23,6 +23,6 @@ The user should be able to:
 
 You are required to submit the following:
 
-* The URL to the deployed application: 
+* The URL to the deployed application:  https://simplyvpthar.github.io/Fitness-Tracker/.
 
-* The URL to the GitHub repository: git@github.com:simplyvpthar/Fitness-Tracker.git
+* The URL to the GitHub repository: git@github.com:simplyvpthar/Fitness-Tracker.git.
