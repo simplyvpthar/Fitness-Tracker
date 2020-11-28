@@ -12,7 +12,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Pull Down",
+        name: "Sidepulls",
         duration: 20,
         weight: 100,
         reps: 10,
