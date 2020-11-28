@@ -19,10 +19,12 @@ The user should be able to:
   * View the combined weight of multiple exercises on the `stats` page.
 
 
-## Submission on BCS
+## Links 
 
 You are required to submit the following:
 
 * The URL to the deployed application:  https://simplyvpthar.github.io/Fitness-Tracker/.
 
 * The URL to the GitHub repository:  https://github.com/simplyvpthar/Fitness-Tracker.git
+
+* Heroku: https://vt-workout-tracker.herokuapp.com/
