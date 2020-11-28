@@ -47,7 +47,7 @@ router.get("/api/workouts/range", (req, res) => {
 });
 
 router.delete("/api/workouts", ({ body }, res) => {
-  Exercise.findByIdAndDelete(body.id)
+  Exercises.findByIdAndDelete(body.id)
     .then(() => {
       res.json(true);
     })
